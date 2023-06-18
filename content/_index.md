@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About
       username: shahzaib-kashif
   
   - block: portfolio
