@@ -26,7 +26,7 @@ social:
     link: https://github.com/shahzaibk23
     icon: github
 organizations:
-  - name: Micro Electronics Research Lab (MERL)
+  - name: Micro Electronics Research Lab
     url: https://merledupk.org/
 education:
   courses:
