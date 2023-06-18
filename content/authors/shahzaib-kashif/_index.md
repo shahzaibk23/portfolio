@@ -8,7 +8,6 @@ interests:
   - Constructing Hardware in Scala Embedded Language (CHISEL) HDL
   - Functional Programming
   - Agile Hardware Design
-  - ""
 social:
   - display:
       header: true
@@ -32,7 +31,7 @@ education:
   courses:
     - course: BSc in Software Engineering
       institution: Usman Institute of Technology (UIT)
-      year: 1990
+      year: 2018
 superuser: true
 ---
 L﻿earner
