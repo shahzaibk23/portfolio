@@ -69,13 +69,13 @@ sections:
         - title: Research Assistant
           company: Microelectronics Research Lab (MERL)
           company_url: 'https://merledupk.org/'
-          company_logo: merl
+          company_logo: merl.png
           date_start: '2022-09-01'
           date_end: ''
         - title: RISC-V CPU Logic Implementor (CHISEL)
           company: Intensivate
           company_url: 'http://intensivate.com/'
-          company_logo: int
+          company_logo: int.jpeg
           date_start: '2022-10-01'
           date_end: ''
         - title: Research Intern
