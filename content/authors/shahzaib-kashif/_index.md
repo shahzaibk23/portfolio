@@ -13,7 +13,7 @@ social:
       header: true
     icon_pack: fab
     link: https://github.com/shahzaibk23
-    icon: fa-github
+    icon: github
   - display:
       header: true
     link: https://www.linkedin.com/in/shahzaib-kashif-2655a1178/
