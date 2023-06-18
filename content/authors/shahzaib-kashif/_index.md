@@ -22,7 +22,7 @@ social:
   - display:
       header: true
     link: https://twitter.com/shahzaib_kash
-    icon_pack: fas
+    icon_pack: far
     icon: fa-twitter
 organizations:
   - name: Micro Electronics Research Lab (MERL)
