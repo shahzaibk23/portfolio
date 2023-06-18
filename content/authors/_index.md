@@ -1,11 +1,11 @@
 ---
 cms_exclude: true
 
-# To publish author profile pages, remove all of the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+title: Shahzaib Kashif
+role: Research Assistant
+bio: Researcher
+interests: risc-v, chisel, scala
+education: BSc in Software Engineering
+social: none
 ---
+Shahzaib Kashif is a highly anticipated and very enthusiastic individual
