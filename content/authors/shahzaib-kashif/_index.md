@@ -11,19 +11,19 @@ interests:
 social:
   - display:
       header: true
-    icon_pack: fab
-    link: https://github.com/shahzaibk23
-    icon: github
-  - display:
-      header: true
     link: https://www.linkedin.com/in/shahzaib-kashif-2655a1178/
     icon_pack: fab
-    icon: fa-linkedin
+    icon: linkedin
   - display:
       header: true
     link: https://twitter.com/shahzaib_kash
     icon_pack: fab
-    icon: fa-twitter
+    icon: twitter
+  - display:
+      header: true
+    icon_pack: fab
+    link: https://github.com/shahzaibk23
+    icon: github
 organizations:
   - name: Micro Electronics Research Lab (MERL)
     url: https://merledupk.org/
