@@ -5,9 +5,10 @@ avatar_filename: img_8533.jpg
 bio: Enthusiastic
 interests:
   - RISC-V
-  - Constructing Hardware in Scala Embedded Language (CHISEL) HDL
+  - CHISEL HDL
   - Functional Programming
   - Agile Hardware Design
+  - Hardware Software Co-design
 social:
   - display:
       header: true
