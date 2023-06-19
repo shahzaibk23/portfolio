@@ -19,8 +19,8 @@ links:
     icon: github
   - url: https://the-nova-project.github.io/proj-details.html
     name: Website
-    icon_pack: far
-    icon: browser
+    icon_pack: fas
+    icon: right-to-bracket
 image:
   filename: clipboard-image-4.png
   focal_point: Smart
