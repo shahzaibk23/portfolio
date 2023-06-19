@@ -19,7 +19,7 @@ links:
     icon: github
   - url: https://the-nova-project.github.io/proj-details.html
     name: Website
-    icon_pack: fas
+    icon_pack: far
     icon: browser
 image:
   filename: clipboard-image-4.png
