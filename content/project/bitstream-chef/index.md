@@ -9,7 +9,7 @@ summary: A﻿n EDA Tool for rapid Bitstream Generation of Hardware Designs using
 draft: false
 featured: false
 image:
-  filename: screenshot-2023-06-19-at-3.37.51-pm.png
+  filename: screenshot-2023-06-19-at-5.17.20-pm.png
   focal_point: Smart
   preview_only: false
 ---
