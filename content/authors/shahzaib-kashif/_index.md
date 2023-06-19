@@ -31,8 +31,8 @@ organizations:
 education:
   courses:
     - course: BSc in Software Engineering
-      institution: Usman Institute of Technology (UIT)
-      year: 2018
+      institution: Usman Institute of Technology (UIT), 2018 - 2022
+      year: ""
 superuser: true
 ---
 <p>L﻿earner</p>
