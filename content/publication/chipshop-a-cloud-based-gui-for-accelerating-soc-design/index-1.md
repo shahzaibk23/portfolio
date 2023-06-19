@@ -41,9 +41,9 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-06-06T09:30:21.517Z
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Certificate
+  url: 'https://github.com/shahzaibk23/portfolio/blob/main/data/RISC%20V%20_%20Certificado%20POSTER.pdf'
 
 url_source: 'https://riscv-europe.org/posters.html#shahzaib-muhammad-kashif-chipshop-a-cloud-based-gui-for-accelerating-soc-design'
 
