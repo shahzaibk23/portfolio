@@ -41,4 +41,12 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-06-19T09:27:41.123Z
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_slides: 'https://fires.im/workshop-2023-pdf/07_ChipShop_Kashif.pdf'
+url_source: 'https://fires.im/workshop-2023/#program'
+url_video: 'https://www.youtube.com/watch?v=Y0qW4cmWE4w&ab_channel=FireSimChipyard'
+
 ---
