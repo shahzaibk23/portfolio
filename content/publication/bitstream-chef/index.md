@@ -29,7 +29,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-06-19T07:37:18.480Z
+date: 2022-11-03T07:37:18.480Z
 url_source: 'https://woset-workshop.github.io/WOSET2022.html#article-4'
 url_code: 'https://github.com/merledu/Bitstream-Chef'
 url_poster: 'https://woset-workshop.github.io/PDFs/2022/4-Kashif.pdf'
