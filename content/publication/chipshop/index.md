@@ -40,5 +40,11 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-06-19T09:30:21.517Z
+date: 2023-06-06T09:30:21.517Z
+links:
+- name: Certificate
+  url: '{{% staticref "uploads/rv_certificate.pdf" "newtab" %}}{{% /staticref %}}'
+
+url_source: 'https://riscv-europe.org/posters.html#shahzaib-muhammad-kashif-chipshop-a-cloud-based-gui-for-accelerating-soc-design'
+
 ---
