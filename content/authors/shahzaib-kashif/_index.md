@@ -35,4 +35,7 @@ education:
       year: 2018
 superuser: true
 ---
-L﻿earner
+<p>L﻿earner</p>
+
+<p>
+  <i class="fas fa-envelope  pr-1 fa-fw"></i> <a href="mailto:shahzaibceo@gmail.com"><code>shahzaibceo@gmail.com</code></a></p>
