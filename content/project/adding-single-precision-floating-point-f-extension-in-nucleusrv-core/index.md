@@ -12,6 +12,11 @@ featured: false
 tags:
   - RISC-V
   - Core
+links:
+  - icon: right-to-bracket
+    icon_pack: fas
+    name: Web
+    url: https://mentorship.lfx.linuxfoundation.org/project/f56cbce6-eed6-4633-8f1e-77169e8911ce
 image:
   filename: screenshot-2023-06-19-at-5.35.58-pm.png
   focal_point: Smart
