@@ -8,6 +8,11 @@ summary: A﻿n EDA Tool for rapid Bitstream Generation of Hardware Designs using
   be a cloud based web app.
 draft: false
 featured: false
+links:
+  - url: https://github.com/merledu/Bitstream-Chef
+    name: Github
+    icon_pack: fab
+    icon: github
 image:
   filename: screenshot-2023-06-19-at-5.17.20-pm.png
   focal_point: Smart
