@@ -4,11 +4,11 @@ role: ""
 avatar_filename: img_8533.jpg
 bio: Enthusiastic
 interests:
-  - RISC-V
-  - CHISEL HDL
+  - RISC-V and CHISEL HDL
   - Functional Programming
   - Agile Hardware Design
-  - Hardware Software Co-design
+  - Compilers and IoT
+  - Edge Computing
 social:
   - display:
       header: true
@@ -35,7 +35,7 @@ education:
       year: ""
 superuser: true
 ---
-<p>L﻿earner</p>
+<p>**I am a Research Assistant at MERL and a Software Engineering Graduate. I am majorly interested in designing hardware with the Software Engineering Methodologies using CHISEL HDL. I have been working on RISC-V ISA for the last 3+ years. I also have keen interest in Compilers, Edge Computing, and Tiny A.I/ML Models for Embedded/IoT Devices.**</p>
 
 <p>
   <i class="fas fa-envelope  pr-1 fa-fw"></i> <a href="mailto:shahzaibceo@gmail.com"><code>shahzaibceo@gmail.com</code></a></p>
