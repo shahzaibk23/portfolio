@@ -2,10 +2,11 @@
 title: Linux Device Driver Development
 subtitle: THE NOVA PROJECT
 date: 2023-06-19T07:12:18.325Z
-summary: Developed multiple Linux Device Drivers and Configured the Zephyr RTOS
-  in accordance with the system configuration. The entire system development was
-  done on AWS-FPGA Platform. Separate AWS-FPGA Runtime Compatible Drivers were
-  written to test the system during FPGA Emulation on Cloud.
+summary: <﻿i> The NOVA Project </i> <br>Developed multiple Linux Device Drivers
+  and Configured the Zephyr RTOS in accordance with the system configuration.
+  The entire system development was done on AWS-FPGA Platform. Separate AWS-FPGA
+  Runtime Compatible Drivers were written to test the system during FPGA
+  Emulation on Cloud.
 draft: false
 featured: false
 tags:
