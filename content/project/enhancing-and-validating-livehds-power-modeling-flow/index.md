@@ -1,7 +1,7 @@
 ---
 title: Enhancing and Validating LiveHD's Power Modeling Flow
 date: 2023-06-19T12:47:15.005Z
-summary: <﻿i>Contributor in GSoC'23</i><br>The primary goal of this project is
+summary: <﻿i>Contributor in GSoC'23 </i><br>The primary goal of this project is
   to enhance and validate LiveHD's power modeling flow, a critical feature for
   estimating power consumption in modern hardware designs. The existing flow
   requires further refinement to ensure its stability, accuracy, compatibility
