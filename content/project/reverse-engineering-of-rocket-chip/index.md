@@ -13,6 +13,15 @@ links:
   - url: https://www.youtube.com/watch?v=3d5PeaNCsZo&t=78s&ab_channel=RISC-VInternational
     icon_pack: fab
     icon: youtube
+    name: Recording
+  - url: https://www.slideshare.net/RISC-VFoundation1/reverse-engineering-of-rocket-chip
+    name: Slides
+    icon_pack: far
+    icon: slideshare
+  - icon_pack: fab
+    icon: certificate
+    name: Certificate
+    url: https://www.linkedin.com/posts/shahzaib-kashif-2655a1178_risc-v-certificate-activity-6777994622762270720--1bC?utm_source=share&utm_medium=member_desktop
 image:
   filename: screenshot-2023-06-19-at-11.58.12-am.png
   focal_point: Smart
