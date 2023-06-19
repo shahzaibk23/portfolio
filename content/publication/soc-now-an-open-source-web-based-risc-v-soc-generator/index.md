@@ -38,5 +38,15 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-06-19T09:24:30.737Z
+date: 2022-11-03T09:24:30.737Z
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_code: 'https://github.com/shahzaibk23/SoC-Now-Overview'
+url_poster: 'https://woset-workshop.github.io/PDFs/2022/6-Shahzaib.pdf'
+url_slides: 'https://woset-workshop.github.io/PDFs/2022/6-Shahzaib-slides.pdf'
+url_source: 'https://woset-workshop.github.io/WOSET2022.html#article-6'
+url_video: 'https://woset-workshop.github.io/Videos/2022/6-Shahzaib.mp4'
+
 ---
