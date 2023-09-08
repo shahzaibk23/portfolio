@@ -1,7 +1,7 @@
 ---
 title: Shahzaib Kashif
 role: ""
-avatar_filename: img_8533.jpg
+avatar_filename: profile-pic-2-.png
 bio: Enthusiastic
 interests:
   - RISC-V and CHISEL HDL
